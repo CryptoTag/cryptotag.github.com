@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tradingview</title>
+    <g id="tradingview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="路径" fill="#2962FF" fill-rule="nonzero" points="0.00617800958 8.2240437 12.9508343 8.22613332 13.0197918 24.5297189 6.47473575 24.4839289 6.47282783 14.7014142 0 14.6912386"></polygon>
+        <circle id="椭圆形" fill="#2962FF" fill-rule="nonzero" cx="17.8426368" cy="11.2667134" r="3.26671342"></circle>
+        <polygon id="路径" fill="#2962FF" fill-rule="nonzero" points="24.4585582 8.23494607 32 8.24294114 25.169211 24.4111556 17.7076291 24.3950746 24.4064994 8.24793806"></polygon>
+    </g>
+</svg>

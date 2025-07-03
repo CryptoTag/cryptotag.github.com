@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bitget</title>
+    <g id="bitget" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="rect1" fill="#00F0FF" fill-rule="nonzero" x="0" y="0" width="32" height="32" rx="8"></rect>
+        <path d="M14.7676936,12.61368 L20.7425736,12.61368 L26.8548936,18.68696 C27.2524936,19.082 27.2545736,19.72464 26.8589736,20.12168 L19.0202536,28 L12.8652936,28 L14.7260936,26.19096 L21.5580936,19.40208 L14.8128136,12.61312" id="path1" fill="#1B1B1B" fill-rule="nonzero"></path>
+        <path d="M17.2233736,19.38688 L11.2484936,19.38688 L5.1361576,13.31352 C4.7385416,12.91848 4.7365096,12.27592 5.1320936,11.8788 L12.9708136,4 L19.1257736,4 L17.2649736,5.809056 L10.4329736,12.59792 L17.1782536,19.38688" id="path2" fill="#1B1B1B" fill-rule="nonzero"></path>
+    </g>
+</svg>

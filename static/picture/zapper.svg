@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zapper</title>
+    <g id="zapper" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="椭圆形" fill="#784FFE" cx="16" cy="16" r="16"></circle>
+        <polygon id="路径" fill="#FFFFFF" points="7 16 10 12 21.5 12 18.5 16 25 16 22.5 20 11 20 13.5 16"></polygon>
+    </g>
+</svg>

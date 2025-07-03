@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Trust</title>
+    <defs>
+        <linearGradient x1="54.6288584%" y1="-6.97074721%" x2="39.720867%" y2="98.5754815%" id="linearGradient-1">
+            <stop stop-color="#0000FF" offset="2%"></stop>
+            <stop stop-color="#0094FF" offset="8%"></stop>
+            <stop stop-color="#48FF91" offset="16%"></stop>
+            <stop stop-color="#0094FF" offset="42%"></stop>
+            <stop stop-color="#0038FF" offset="68%"></stop>
+            <stop stop-color="#0500FF" offset="90%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Trust" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M2,4.62239353 L16.1580738,0 L16.1580738,32 C6.0450716,27.7330777 2,19.5553428 2,14.9335896 L2,4.62239353 Z" id="路径" fill="#0500FF" fill-rule="nonzero"></path>
+        <path d="M30.3167883,4.62239353 L16.1587131,0 L16.1587131,32 C26.2717153,27.7330777 30.3167883,19.5553428 30.3167883,14.9335896 L30.3167883,4.62239353 Z" id="路径" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+    </g>
+</svg>
